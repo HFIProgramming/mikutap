@@ -1,5 +1,7 @@
 # mikutap
 A Mainland China Friendly and indenpendent version extracted from https://aidn.jp/mikutap  
+   
+![](https://github.com/HFIProgramming/mikutap/raw/master/mikutap.gif)  
 
 # 为什么要做这个  
 因为很有趣，觉得应该分享给大家  
