@@ -4,7 +4,8 @@ A Mainland China Friendly and indenpendent version extracted from https://aidn.j
 ![](https://github.com/HFIProgramming/mikutap/raw/master/mikutap.gif)  
 
 # 为什么要做这个  
-因为很有趣，觉得应该分享给大家  
+因为很有趣，觉得应该分享给大家，降低国内用户访问的成本  
+Related: https://www.v2ex.com/t/403054#reply0    
 
 # 修改说明  
 - 为国内用户适配了合适的CDN
@@ -13,6 +14,9 @@ A Mainland China Friendly and indenpendent version extracted from https://aidn.j
 - 移除了原作者的Google Analysis
 - 移除了页面上部分属性
 - 增加了作品来源说明
+
+# @TODO
+- 使用JSDelivr分发，并minify
 
 # 版权说明  
 遵循原作者的说明，作品仅用于非盈利的公共使用用途，无需告知  
@@ -28,3 +32,4 @@ http://exittunes.com/license/
 
 # DEMO  
 [https://static.hfi.me/site/mikutap](https://static.hfi.me/site/mikutap)
+
