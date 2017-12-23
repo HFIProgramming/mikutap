@@ -1,5 +1,5 @@
 # mikutap
-A Mainland China Friendly and indenpendent version extracted from https://aidn.jp/mikutap  
+A Mainland China friendly and indenpendent version extracted from https://aidn.jp/mikutap  
    
 ![](https://github.com/HFIProgramming/mikutap/raw/master/mikutap.gif)  
 
@@ -16,7 +16,7 @@ Related: https://www.v2ex.com/t/403054#reply0
 - 增加了作品来源说明
 
 # @TODO
-- 使用JSDelivr分发，并minify
+- ~~使用JSDelivr分发，并minify~~（由于投毒事件计划取消，详细请见 https://www.v2ex.com/t/403110 ）
 
 # 版权说明  
 遵循原作者的说明，作品仅用于非盈利的公共使用用途，无需告知  
