@@ -1,7 +1,7 @@
 # mikutap
 A Mainland China friendly and indenpendent version extracted from https://aidn.jp/mikutap  
    
-![](https://github.com/HFIProgramming/mikutap/raw/master/mikutap.gif)  
+![](https://i.loli.net/2017/12/23/5a3e0812758da.gif)  
 
 # 为什么要做这个  
 因为很有趣，觉得应该分享给大家，降低国内用户访问的成本  
