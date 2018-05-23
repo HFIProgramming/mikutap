@@ -31,5 +31,5 @@ http://exittunes.com/license/
 由于违规使用本repo带来的后果HFIProgramming不承担结果  
 
 # DEMO  
-[https://static.hfi.me/site/mikutap](https://static.hfi.me/site/mikutap)
+[https://static.hfi.me/mikutap](https://static.hfi.me/mikutap)
 
