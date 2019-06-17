@@ -1,5 +1,5 @@
 # mikutap
-A Mainland China friendly and indenpendent version extracted from https://aidn.jp/mikutap  
+A Mainland China friendly and independent version extracted from https://aidn.jp/mikutap  
    
 ![](https://i.loli.net/2017/12/23/5a3e0812758da.gif)  
 
