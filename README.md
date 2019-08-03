@@ -3,6 +3,18 @@ A Mainland China friendly and independent version extracted from https://aidn.jp
    
 ![](https://i.loli.net/2017/12/23/5a3e0812758da.gif)  
 
+# 致所有自行编辑修改的人
+
+请在任何时候**不要移除原作者信息**
+
+你可以添加你自己名字上去，但是保留原作者信息是最基本的尊重
+
+谢谢
+
+如果你用于了推广，广告等用途
+
+请参见下方许可证要求联系原作者，谢谢
+
 # 为什么要做这个  
 因为很有趣，觉得应该分享给大家，降低国内用户访问的成本  
 Related: https://www.v2ex.com/t/403054#reply0    
